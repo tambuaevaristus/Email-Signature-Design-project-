@@ -1,0 +1,50 @@
+#card{
+    width: 55%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding:10px 10px;
+
+}
+
+/* .inner-card{
+    width: 90px;
+    height: auto;
+    margin: 10px;
+} */
+
+#main-image-div{
+    height: 50px;
+}
+
+#image-sub-div{
+    height: 14rem;
+}
+
+
+/* testing */
+#test{
+    margin-left: 250px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.icons{
+    width: 40px;
+}
+
+.contact-items{
+    padding: 0 !important;
+}
+
+#icon-ul{
+    padding: 0 0 !important;
+}
+
+.font{
+    font-family: 'exo 2';
+}
+
+.list-group-item{
+    padding: 5px !important;
+}
