@@ -4,6 +4,7 @@
     margin: 0 auto;
     margin-top: 50px;
     padding:10px 10px;
+    background-color: white;
 
 }
 
@@ -24,9 +25,9 @@
 
 /* testing */
 #test{
-    margin-left: 250px;
-    margin-top: 100px;
-    background-color: black;
+    /* margin-left: 250px; */
+    /* margin-top: 100px; */
+    /* background-color: black; */
 }
 
 .icons{
@@ -43,8 +44,37 @@
 
 .font{
     font-family: 'exo 2';
+    font-weight: bold;
+
 }
 
 .list-group-item{
     padding: 5px !important;
+    
 }
+
+.ending-text{
+}
+
+.main-color{
+    color: #6E90CA;
+}
+
+#contact a{
+    color:black;
+}
+
+
+/* styles for mobile */
+
+#mobile-arrow{
+    height: 900px;
+    /* background-color: red; */
+}
+
+#mobile-logo{
+    padding-right: 5px;
+    border-right: 1px solid #6E90CA;
+}
+
+
